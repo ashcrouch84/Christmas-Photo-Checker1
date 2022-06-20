@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Christmas_Photo_Checker1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="phoHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">access802899325.webspace-data.io</Value>
+    </Setting>
+    <Setting Name="phoPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="phoUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">u98941559</Value>
+    </Setting>
+    <Setting Name="phoPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jadzia1984!</Value>
+    </Setting>
+    <Setting Name="phoSaveLocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="phoTimerInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="phoRFChild" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/uzmQIAHBSH6kusMp9tNpbSvEn5IGJKaB5ESX3WUWmPeMVNRnBFxudnt4ubtaAfbJ</Value>
+    </Setting>
+    <Setting Name="phoRFAdult" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/hQDo6TUAuImqWENYQjdjMHhdKeiFYqsvMKhMPNBgM7oXUCNkXB4rtBH7i3tYubYh</Value>
+    </Setting>
+    <Setting Name="phoRFFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/3hbQnlLEQA870bKszQg8dIWQ5cLzZm2wOCJj5zym0eFKZwgBn2T0ZS9i03fit53q</Value>
+    </Setting>
+    <Setting Name="phoRF" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/X22/GatherBooking</Value>
+    </Setting>
+    <Setting Name="phoTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="phoPW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1111</Value>
+    </Setting>
+    <Setting Name="phoUsage" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="phoDCPW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TFI4gOfiMnABxa4UG9BuJAh4fUjayi5ySGHVB0XeT3qrgdFh8gj27ArwUUH8pBFZ</Value>
+    </Setting>
+    <Setting Name="phoReset" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="phoFrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1/11/2021</Value>
+    </Setting>
+    <Setting Name="phoTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30/12/2021</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
